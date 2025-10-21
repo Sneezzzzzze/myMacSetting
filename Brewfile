@@ -1,4 +1,5 @@
 tap "jandedobbeleer/oh-my-posh"
+tap "localstack/tap"
 tap "oven-sh/bun"
 brew "bat"
 brew "ffmpeg"
